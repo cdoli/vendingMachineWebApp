@@ -1,0 +1,11 @@
+com\vending\client\VendingMachineClient.class
+com\vending\api\VendingMachineImpl.class
+com\vending\api\ProductCatalogService.class
+com\vending\exception\ProductPriceException.class
+com\vending\model\ProductState.class
+com\vending\api\ProductPriceService.class
+com\vending\api\VendingMachine.class
+com\vending\exception\ProductNotFoundException.class
+com\vending\api\ProductPriceServiceImpl.class
+com\vending\api\ProductCatalogServiceImpl.class
+com\vending\exception\IllegalOrderException.class
